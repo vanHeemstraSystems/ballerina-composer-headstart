@@ -7,3 +7,6 @@ ballerina-composer-headstart
 
 ## 100 - Installation
 See [README.md](./100/README.md)
+
+## 200 - Running Composer
+See [README.md](./200/README.md)
