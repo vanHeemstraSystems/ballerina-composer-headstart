@@ -5,3 +5,5 @@ ballerina-composer-headstart
 
 - Based on "Ballerina - Let’s dance !!!!!" at https://dushanabeyruwan.medium.com/ballerina-lets-dance-a0f61b10684b
 
+## 100 - Installation
+See [README.md](./100/README.md)
