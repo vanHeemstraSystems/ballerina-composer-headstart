@@ -82,7 +82,13 @@ Look here for the most recent version: https://ballerina.io/learn/tooling-guide/
 
 ***Tip***: Download from a Linux command line as follows:
 
-```$ sudo curl -O https://github.com/ballerina-platform/plugin-vscode/releases/download/vswan-lake-alpha4/ballerina-swan-lake-alpha4.vsix```
+Using wget (recommended):
+
+```$ sudo wget https://github.com/ballerina-platform/plugin-vscode/releases/download/vswan-lake-alpha4/ballerina-swan-lake-alpha4.vsix``` 
+
+Or using curl (not recommended):
+
+```$ sudo curl -O https://github.com/ballerina-platform/plugin-vscode/releases/download/vswan-lake-alpha4/ballerina-swan-lake-alpha4.vsix``` 
 
 ### Installing the Extension
 
