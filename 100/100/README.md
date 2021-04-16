@@ -64,4 +64,7 @@ You have successfully installed VS Code on your CentOS 7 machine. To learn more 
 
 ## Installing the Ballerina Composer Plugin
 
-...
+The Ballerina IDE plugin (for example, the [VSCode plugin](https://ballerina.io/learn/tooling-guide/vs-code-extension/installing-the-vs-code-extension/)) can generate a sequence diagram dynamically from the source code. To start generating a sequence diagram from your Ballerina code, [download the VSCode plugin and launch the graphical editor](https://ballerina.io/learn/tooling-guide/vs-code-extension/installing-the-vs-code-extension/).
+
+Source: https://ballerina.io/why-ballerina/sequence-diagrams-for-programming/
+
