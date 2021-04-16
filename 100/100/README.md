@@ -46,7 +46,7 @@ That’s it. Visual Studio Code has been installed on your CentOS desktop and yo
 
 ## Starting Visual Studio Code
 
-Now that VS Code is installed on your CentOS system you can launch it either from the command line by typing code or by clicking on the VS Code icon (Applications -> Programming -> Visual Studio Code).
+Now that VS Code is installed on your CentOS system you can launch it either from the command line by typing ```code``` or by clicking on the VS Code icon (Applications -> Programming -> Visual Studio Code).
 
 When you start VS Code for the first time, a window should appear.
 
