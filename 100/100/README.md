@@ -97,6 +97,7 @@ A. Using the VS Code editor
 B. Using the Command Line
 
 - In a new Command Line tab, execute the below command.
+
 ```$ code --install-extension <BALLERINA-EXTENSION-DIRECTORY>```
 
 ***Tip***: In the above command, <BALLERINA_EXTENSION-DIRECTORY> refers to the path of the Ballerina extension directory (i.e., the VSIX file) you downloaded.
