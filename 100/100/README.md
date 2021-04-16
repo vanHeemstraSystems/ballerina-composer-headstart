@@ -68,3 +68,31 @@ The Ballerina IDE plugin (for example, the [VSCode plugin](https://ballerina.io/
 
 Source: https://ballerina.io/why-ballerina/sequence-diagrams-for-programming/
 
+Source: https://ballerina.io/learn/tooling-guide/visual-studio-code-extension/installing-the-vs-code-extension/
+
+The VS Code Ballerina extension provides the Ballerina development capabilities in VS Code. The below sections include instructions on how to download, install, and use the features of the VS Code extension.
+
+### Downloading the VS Code Extension
+
+Download the Visual Studio Code Ballerina Extension from below.
+
+https://github.com/ballerina-platform/plugin-vscode/releases/download/vswan-lake-alpha4/ballerina-swan-lake-alpha4.vsix
+
+Look here for the most recent version: https://ballerina.io/learn/tooling-guide/visual-studio-code-extension/installing-the-vs-code-extension/
+
+### Installing the Extension
+
+Follow either of the below approaches to install the extension.
+
+A. Using the VS Code editor
+
+- Click View in the top menu of the editor and click Command Palette.
+- In the search bar, type “vsix” and click Extensions: Install from VSIX….
+- Browse and select the VSIX file of the extension you downloaded.
+
+B. Using the Command Line
+
+- In a new Command Line tab, execute the below command.
+```$ code --install-extension <BALLERINA-EXTENSION-DIRECTORY>```
+
+***Tip***: In the above command, <BALLERINA_EXTENSION-DIRECTORY> refers to the path of the Ballerina extension directory (i.e., the VSIX file) you downloaded.
